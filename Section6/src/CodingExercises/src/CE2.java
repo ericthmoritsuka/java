@@ -1,4 +1,4 @@
-package CodingExercises;
+package CodingExercises.src;
 
 public class CE2 {
     public static boolean isLeapYear (int year){

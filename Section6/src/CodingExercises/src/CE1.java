@@ -1,4 +1,4 @@
-package CodingExercises;
+package CodingExercises.src;
 
 public class CE1 {
     public static void printNumberInWord (int number) {
