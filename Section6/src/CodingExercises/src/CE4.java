@@ -1,5 +1,14 @@
 package CodingExercises.src;
 
+//Number Palindrome
+//        Write a method called isPalindrome with one int parameter called number.
+//
+//        The method needs to return a boolean.
+//
+//        It should return true if the number is a palindrome number otherwise it should return false.
+//
+//        Check the tips below for more info about palindromes.
+
 public class CE4 {
     public static boolean isPalindrome(int number) {
         String convertedNumber = Integer.toString(Math.abs(number));
