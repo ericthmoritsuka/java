@@ -8,7 +8,7 @@ package CodingExercises.src;
 //
 //        If the number is negative, the method should return -1 to indicate an invalid value.
 
-public class CE6 {
+public class CE18 {
     public static int getEvenDigitSum(int number){
         if (number < 0) {
             return -1;

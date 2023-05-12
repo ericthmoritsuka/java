@@ -12,7 +12,7 @@ package CodingExercises.src;
 //
 //        A year is a leap year if it is divisible by 4 but not by 100, or it is divisible by 400.
 
-public class CE2 {
+public class CE14 {
     public static boolean isLeapYear (int year){
         if (year < 1 || year > 9999) {
             return false;

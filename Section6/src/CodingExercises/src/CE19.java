@@ -1,4 +1,4 @@
 package CodingExercises.src;
 
-public class CE7 {
+public class CE19 {
 }

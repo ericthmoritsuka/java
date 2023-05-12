@@ -9,7 +9,7 @@ package CodingExercises.src;
 //
 //        Check the tips below for more info about palindromes.
 
-public class CE4 {
+public class CE16 {
     public static boolean isPalindrome(int number) {
         String convertedNumber = Integer.toString(Math.abs(number));
         StringBuilder reversedNumber = new StringBuilder(convertedNumber);

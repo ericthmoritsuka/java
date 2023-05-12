@@ -1,6 +1,6 @@
 package CodingExercises.src;
 
-public class CE3 {
+public class CE15 {
 
 //    Sum Odd
 //    Write a method called isOdd with an int parameter and call it number. The method needs to return a boolean.
