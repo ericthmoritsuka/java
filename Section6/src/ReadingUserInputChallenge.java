@@ -13,7 +13,7 @@ public class ReadingUserInputChallenge {
             System.out.println("Enter number #" + counter + ": ");
             try{
                 number = Integer.parseInt(scanner.nextLine());
-                if (number <0){
+                if (number <0) {
                     System.out.println("Negative numbers are not allowed.");
                     continue;
                 }
